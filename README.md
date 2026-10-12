@@ -36,6 +36,7 @@ After submission, the PHP script connects to the database and attempts to insert
 The browser displays a success message with the submitted details or an error message if the insertion fails.
 
 <img width="1197" height="818" alt="Screenshot 2026-10-08 181115" src="https://github.com/user-attachments/assets/abe3821e-5bab-4034-ada9-fa9366863a83" />
+<img width="1400" height="392" alt="Screenshot 2026-10-08 181838" src="https://github.com/user-attachments/assets/ae5332bf-8537-470b-b73c-00ddb5b3d1b0" />
 
 ## 5. PHP Project Setup
 
